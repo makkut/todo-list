@@ -1,0 +1,233 @@
+{
+  "lists": [
+    {
+      "id": 1,
+      "name": "Продажи",
+      "colorId": 5
+    },
+    {
+      "id": 2,
+      "name": "Фронтенд",
+      "colorId": 4
+    },
+    {
+      "id": 3,
+      "name": "Фильмы и сериалы",
+      "colorId": 3
+    },
+    {
+      "id": 4,
+      "name": "Книги",
+      "colorId": 2
+    },
+    {
+      "id": 5,
+      "name": "Личное",
+      "colorId": 1
+    },
+    {
+      "name": "Спорт",
+      "colorId": 3,
+      "id": 6
+    },
+    {
+      "name": "react",
+      "colorId": 7,
+      "id": 7
+    }
+  ],
+  "tasks": [
+    {
+      "id": 1,
+      "listId": 2,
+      "text": "Изучить JavaScript",
+      "completed": true
+    },
+    {
+      "id": 2,
+      "listId": 2,
+      "text": "Изучить паттерны проектирования",
+      "completed": true
+    },
+    {
+      "id": 3,
+      "listId": 2,
+      "text": "ReactJS Hooks (useState, useReducer, useEffect и т.д.)",
+      "completed": true
+    },
+    {
+      "id": 4,
+      "listId": 2,
+      "text": "Redux (redux-observable, redux-saga)",
+      "completed": false
+    },
+    {
+      "listId": 2,
+      "text": "123",
+      "completed": true,
+      "id": 5
+    },
+    {
+      "listId": 1,
+      "text": "test",
+      "completed": true,
+      "id": 6
+    },
+    {
+      "listId": 1,
+      "text": "qweqwe",
+      "completed": true,
+      "id": 7
+    },
+    {
+      "listId": 1,
+      "text": "qweqwe",
+      "completed": true,
+      "id": 8
+    },
+    {
+      "listId": 1,
+      "text": "123",
+      "completed": true,
+      "id": 9
+    },
+    {
+      "listId": 4,
+      "text": "Купить 1984!",
+      "completed": true,
+      "id": 10
+    },
+    {
+      "listId": 1,
+      "text": "wefwef",
+      "completed": true,
+      "id": 13
+    },
+    {
+      "listId": 1,
+      "text": "wefew",
+      "completed": false,
+      "id": 14
+    },
+    {
+      "listId": 1,
+      "text": "fwefewf",
+      "completed": true,
+      "id": 15
+    },
+    {
+      "listId": 1,
+      "text": "fee",
+      "completed": true,
+      "id": 16
+    },
+    {
+      "listId": 1,
+      "text": "111",
+      "completed": true,
+      "id": 17
+    },
+    {
+      "listId": 1,
+      "text": "222",
+      "completed": false,
+      "id": 18
+    },
+    {
+      "listId": 4,
+      "text": "111",
+      "completed": false,
+      "id": 19
+    },
+    {
+      "listId": 1,
+      "text": "123",
+      "completed": false,
+      "id": 21
+    },
+    {
+      "listId": 1,
+      "text": "121",
+      "completed": false,
+      "id": 25
+    },
+    {
+      "listId": 1,
+      "text": "12",
+      "completed": false,
+      "id": 26
+    },
+    {
+      "listId": 6,
+      "text": "asd",
+      "completed": false,
+      "id": 27
+    },
+    {
+      "listId": 5,
+      "text": "21213",
+      "completed": false,
+      "id": 28
+    },
+    {
+      "listId": 5,
+      "text": "vfv",
+      "completed": false,
+      "id": 29
+    },
+    {
+      "listId": 7,
+      "text": "ewe112",
+      "completed": true,
+      "id": 30
+    },
+    {
+      "listId": 7,
+      "text": "213",
+      "completed": true,
+      "id": 31
+    }
+  ],
+  "colors": [
+    {
+      "id": 1,
+      "hex": "#C9D1D3",
+      "name": "grey"
+    },
+    {
+      "id": 2,
+      "hex": "#42B883",
+      "name": "green"
+    },
+    {
+      "id": 3,
+      "hex": "#64C4ED",
+      "name": "blue"
+    },
+    {
+      "id": 4,
+      "hex": "#FFBBCC",
+      "name": "pink"
+    },
+    {
+      "id": 5,
+      "hex": "#B6E6BD",
+      "name": "lime"
+    },
+    {
+      "id": 6,
+      "hex": "#C355F5",
+      "name": "purple"
+    },
+    {
+      "id": 7,
+      "hex": "#110133",
+      "name": "black"
+    },
+    {
+      "id": 8,
+      "hex": "#FF6464",
+      "name": "red"
+    }
+  ]
+}
